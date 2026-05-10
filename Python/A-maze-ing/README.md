@@ -180,3 +180,16 @@ A-maze-ing/
 │   └── anim.py          # アニメーション処理
 └── pyproject.toml
 ```
+
+# 参考資料
+## DFS
+https://algo-logic.info/brute-force-dfs/
+
+## Kruskal法
+https://algo-logic.info/kruskal-mst/
+
+## Prim法
+https://algo-logic.info/prim-mst/
+
+## BFS
+https://qiita.com/drken/items/996d80bcae64649a6580
