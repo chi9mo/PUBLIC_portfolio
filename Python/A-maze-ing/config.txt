@@ -1,0 +1,16 @@
+# A-Maze-ing Configuration File
+# Format: KEY=VALUE (one per line)
+# Lines starting with # are comments
+
+WIDTH=20
+HEIGHT=15
+ENTRY=0,0
+EXIT=19,14
+OUTPUT_FILE=maze.txt
+PERFECT=True
+
+# Optional settings
+SEED=42
+ALGORITHM=recursive_backtracker
+DISPLAY=ascii
+SOLVER=bfs
